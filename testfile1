@@ -1,7 +1,5 @@
 test line 1
-<<<<<<< HEAD
 test line 2 on branch main feature branch
->>>>>>> main
 final line on branch master.
 
 
